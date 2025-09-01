@@ -91,10 +91,10 @@
 
         FUNCTION {
             bindings = <
-&trans  &trans  &trans  &trans  &trans                         &mt LC(V) LC(C)  &trans        &trans  &kp G                &kp P
-&to 1   &to 2   &to 3   &trans  &trans  &trans      &kp R      &kp DELETE       &trans        &kp E   &trans               &kp E
-&trans  &to 4   &to 5   &to 6   &to 7   &to 0       &kp LC(D)  &kp L            &kp LC(PLUS)  &kp P   &mt LC(LS(Z)) LC(Z)  &kp LC(NUMBER_0)
-&trans  &trans  &trans  &trans  &trans  &to 0       &mkp MB3   &kp H                                                       &kp LC(MINUS)
+&trans  &trans  &trans  &trans  &trans                         &mt LC(V) LC(C)  &trans             &trans  &kp G                &kp P
+&to 1   &to 2   &to 3   &trans  &trans  &trans      &kp R      &kp DELETE       &trans             &kp E   &trans               &kp E
+&trans  &to 4   &to 5   &to 6   &to 7   &to 0       &kp LC(D)  &kp L            &kp LC(SEMICOLON)  &kp P   &mt LC(LS(Z)) LC(Z)  &kp LC(NUMBER_0)
+&trans  &trans  &trans  &trans  &trans  &to 0       &mkp MB3   &kp H                                                            &kp LC(MINUS)
             >;
         };
 

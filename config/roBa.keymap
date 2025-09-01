@@ -94,7 +94,7 @@
 &trans  &trans  &trans  &trans  &trans                         &mt LC(V) LC(C)  &trans           &trans  &kp G                &kp P
 &sl 1   &sl 2   &sl 3   &trans  &trans  &trans      &kp R      &kp DELETE       &trans           &kp E   &trans               &kp E
 &trans  &sl 4   &sl 5   &sl 6   &sl 7   &sl 0       &kp LC(D)  &kp L            &mt SPACE LC(Z)  &kp P   &mt LC(LS(Z)) LC(Z)  &mt LC(PLUS) LC(NUMBER_0)
-&trans  &trans  &trans  &trans  &trans  &trans      &mkp MB3   &kp H                                                          &kp LC(MINUS)
+&trans  &trans  &trans  &trans  &trans  &mo 0       &mkp MB3   &kp H                                                          &kp LC(MINUS)
             >;
         };
 

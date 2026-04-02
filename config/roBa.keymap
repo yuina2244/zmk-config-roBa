@@ -82,7 +82,7 @@
             bindings = <
 &kp ENTER  &kp I      &kp U      &kp E  &kp O                               &kp NUMBER_1  &kp NUMBER_2     &kp NUMBER_3  &kp NUMBER_4  &kp NUMBER_5
 &kp A      &kp K      &kp S      &kp T  &kp N  &kp BSPC      &kp LA(GRAVE)  &kp NUMBER_6  &kp NUMBER_7     &kp NUMBER_8  &kp NUMBER_9  &kp NUMBER_0
-&kp P      &kp H      &kp M      &kp Y  &kp R  &kp W         &to 1          &kp L         &mt LC(C) LC(V)  &mkp MB3      &mkp MB3      &mkp MB2
+&kp P      &kp H      &kp M      &kp Y  &kp R  &kp W         &to 1          &kp L         &mt LC(C) LC(V)  &mkp MB1      &mkp MB3      &mkp MB2
 &kp COMMA  &kp SPACE  &kp MINUS  &kp G  &kp D  &kp Z         &kp LEFT       &kp RIGHT                                                  &kp BACKSPACE
             >;
 
